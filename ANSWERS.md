@@ -22,5 +22,6 @@ I redirected to the trainer's path whose trainerId is who the Pokemon I just dam
 My repository I made for Part 7 is: https://github.com/debbiep168/proj1
 
 # Give us feedback on the project and decal below!
+The pace is going good. It would be nice to have more demos. Also, I linked the github repository for the repository as my own public repository since the project spec in Part 7 to create our own public repositories and push our code there.
 
 # Extra credit: Link your Heroku deployed app
