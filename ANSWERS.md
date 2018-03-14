@@ -17,7 +17,9 @@ Poke
 I redirected to the trainer's path whose trainerId is who the Pokemon I just damaged belongs to. I redirect to that trainer's page.
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
-@pokemon.errors.full_messages usually gives you an array of the errors that arose. Using to_sentence puts the errors into a readable format that you can print out for readers to read. 
+@pokemon.errors.full_messages usually gives you an array of the errors that arose. Using to_sentence puts the errors into a readable format that you can print out for readers to read.
+
+My repository I made for Part 7 is: https://github.com/debbiep168/proj1
 
 # Give us feedback on the project and decal below!
 
